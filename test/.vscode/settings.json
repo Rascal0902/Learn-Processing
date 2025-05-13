@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\USER\\Desktop\\codespace\\pde-learn\\vscode import .jar file\\core.jar",
+        "c:\\Users\\USER\\Desktop\\codespace\\pde-learn\\vscode import .jar file\\interfascia.jar"
+    ]
+}
