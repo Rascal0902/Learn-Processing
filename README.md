@@ -24,7 +24,7 @@ SNAKE GAME by Processing 3.0
 ```
 git clone -b https://github.com/Rascal0902/Learn-Processing
 ```
-**Step 3**: open file game -> game.pde
+**Step 3**: open file SNAKE -> game -> game.pde
 
 **Step 4**: play the game
 
