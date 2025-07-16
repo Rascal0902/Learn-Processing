@@ -1,8 +1,6 @@
 # SNAKE
 SNAKE GAME by Processing 3.0
 
-## [Project Page](https://github.com/Rascal0902/SNAKE)
-
 <p align="center">
     <img src="docs/game.gif">
     <br>
@@ -19,7 +17,7 @@ SNAKE GAME by Processing 3.0
 
 **Step 2**: clone the project
 ```
-git clone -b main_rascal https://github.com/Rascal0902/SNAKE.git
+git clone -b https://github.com/Rascal0902/Learn-Processing
 ```
 **Step 3**: open file game -> game.pde
 
